@@ -1,4 +1,4 @@
 ## Python_Diwali_Sales_Analysis
 
-Analyze Diwali sales data to improve customer experience and sales using python
+Perfomed exploratory data analysis(EDA) using pandas,matplotlib and seaborn libraries.
 
